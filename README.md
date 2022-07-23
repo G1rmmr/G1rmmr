@@ -2,7 +2,7 @@
 
 ### Game Client Programmer & Designer
 
-<a href=https://www.instagram.com/g1_r.mm.r/>
+<a href=https://github.com/G1rmmr/G1rmmr>
   <img src="https://img.shields.io/badge/Git Hub-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
