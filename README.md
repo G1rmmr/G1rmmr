@@ -1,2 +1,1 @@
-# G1rmmr_BLACKHAND
-Intro
+# G1rmmr
