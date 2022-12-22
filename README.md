@@ -18,7 +18,7 @@
 ### Now
 
 <pre>
-  Working as a mentor at "D.Lab Songdo academy" (06.22 ~)
+  Working as a teacher at "D.Lab Songdo academy" (06.22 ~)
 </pre>
 
 <a href=https://github.com/G1rmmr/G1rmmr>
