@@ -18,7 +18,7 @@
   </ol>
 </pre>
 
-### Past
+### Before
 <pre>
   <ul>
     <li> Working as a teacher at "D.Lab Academy, Songdo " (06.22 ~ 03.23) </li>
