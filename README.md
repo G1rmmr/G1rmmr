@@ -15,10 +15,19 @@
     <li> Reinforcement learning in game NPC AI system </li>
 	</ol>
 </pre>
-### Now
 
+### Past
 <pre>
-  Working as a teacher at "D.Lab Songdo academy" (06.22 ~)
+  <ul>
+    <li> Working as a teacher at "D.Lab Songdo academy" (06.22 ~ 03.23) </li>
+  </ul>
+</pre>
+
+### Now
+<pre>
+  <ul>
+    <li> Developing Project "Down" (11.22 ~) </li>
+  </ul>
 </pre>
 
 <a href=https://github.com/G1rmmr/G1rmmr>
@@ -40,7 +49,6 @@
 	<ul> 
 		<li>"VIREARTH" (09.21 ~ 05.22 ; Capstone Design project)</li>
     <li>"Down" (11.22 ~ ; Unity Engine Mobile Game project)</li>
-    <li>"Wings" (12.22 ~ ; Unreal Engine Game project)</li>
   </ul>
 </pre>
  
