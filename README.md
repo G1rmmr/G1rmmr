@@ -11,8 +11,8 @@
   <ol>
     <li> Client-side programming in game development </li>
     <li> 3D Graphics API (e.g. OpenGL, Vulkan...) </li>
-    <li> Game Engine architecture </li>
-    <li> Reinforcement learning in game NPC AI system </li>
+    <li> Game Engine Architecture </li>
+    <li> Reinforcement Learning in Game NPC AI System </li>
 	</ol>
 </pre>
 
