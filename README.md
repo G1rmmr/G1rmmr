@@ -9,17 +9,19 @@
 ### Interests
 <pre>
   <ol>
-    <li> Client-side programming in game development </li>
-    <li> 3D Graphics API (e.g. OpenGL, Vulkan...) </li>
+    <li> Game Development and Play Programming </li>
+    <li> 3D Graphics APIs (e.g. OpenGL, Vulkan...) </li>
     <li> Game Engine Architecture </li>
     <li> Reinforcement Learning in Game NPC AI System </li>
-	</ol>
+    <li> Parallel Computing with C++</li>
+    <li> Scripting system with Python(Game Flow FSM) </li>
+  </ol>
 </pre>
 
 ### Past
 <pre>
   <ul>
-    <li> Working as a teacher at "D.Lab Songdo academy" (06.22 ~ 03.23) </li>
+    <li> Working as a teacher at "D.Lab Academy, Songdo " (06.22 ~ 03.23) </li>
   </ul>
 </pre>
 
