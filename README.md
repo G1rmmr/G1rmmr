@@ -3,10 +3,17 @@
 ## Game Client Programmer & Designer
 
 ---
+### GitHub Status
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&layout=compact&theme=dark)
+
+
+---
+### Tiers
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=black_hand)](https://solved.ac/black_hand)
+<a href="https://opgc.me/#/users/G1rmmr" target="_blank"><img src="https://api.opgc.me/githubs/users/G1rmmr/tag/?theme=basic" /></a>
 
 ## About me.
-
-<a href="https://opgc.me/#/users/G1rmmr" target="_blank"><img src="https://api.opgc.me/githubs/users/G1rmmr/tag/?theme=basic" /></a>
 
 ### Interests
 <pre>
