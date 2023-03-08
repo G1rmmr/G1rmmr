@@ -60,10 +60,6 @@
 
 ## Studying
 
-<a href=https://google.github.io/styleguide/cppguide.html#C++_Version>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</a>
-
 <a href=https://google.github.io/styleguide/csharp-style.html>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
 </a>
