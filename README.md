@@ -1,4 +1,4 @@
-# ***:question: A Programmer who knows the joy of solving problems together :exclamation:***
+# ***:question:Realized the Joy of Solving Problems Together:exclamation:***
 
 ### ***I'll develop my own game. And It will win GOTY.:heart:***
 > <a href=https://www.instagram.com/g1_r.mm.r/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href=https://www.youtube.com/channel/UCecwbtBo5lBOogKllxtCoBg/><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href=https://soundcloud.com/monnlher1hr4/><img src="https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
