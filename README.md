@@ -34,10 +34,6 @@
   </ul>
 </pre>
 
-<a href=https://github.com/G1rmmr/G1rmmr>
-  <img src="https://img.shields.io/badge/Git Hub-000000?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
 <a href=https://www.instagram.com/g1_r.mm.r/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
