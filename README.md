@@ -20,7 +20,7 @@
 > * ***"Down"** (11.22 ~ ; Unity Engine Mobile Game project)*
 
 ### :sunny: Now
-> * *Student in INU (03.17 ~)*
+> * *Student at INU (03.17 ~)*
 > * *Developing Mobile Project, "Down" (11.22 ~)*
 
 ### :full_moon: Before
