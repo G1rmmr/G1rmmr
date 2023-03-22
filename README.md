@@ -40,7 +40,7 @@
 
 ### :fire: Recently Do
 
-> 1. *Problem Solving at BOJ by C++*
+> 1. *Studying C++*
 > 2. *Game Level Design*
 
 ### :trollface: Someday Do
