@@ -3,10 +3,9 @@
 ### ***I'll develop my own game. And will win GOTY.:heart:***
 > <a href=https://www.instagram.com/g1_r.mm.r/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href=https://www.youtube.com/channel/UCecwbtBo5lBOogKllxtCoBg/><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href=https://soundcloud.com/monnlher1hr4/><img src="https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 >
-> ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=true&theme=dark)
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&layout=compact&theme=dark)
->
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=black_hand)](https://solved.ac/black_hand)
+> 
 
 ### :+1: Development Skills
 > <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
