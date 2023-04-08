@@ -1,6 +1,5 @@
-# ***:question:Realized the Joy of Solving Problems Together:exclamation:***
 
-### ***I'll develop my own game. And will win GOTY.:heart:***
+### ***나만의 게임을 개발하여 GOTY를 수상하는 것이 인생 목표인 개발자.***
 > <a href=https://www.instagram.com/g1_r.mm.r/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href=https://www.youtube.com/channel/UCecwbtBo5lBOogKllxtCoBg/><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href=https://soundcloud.com/monnlher1hr4/><img src="https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 >
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&layout=compact&theme=dark)
@@ -11,42 +10,42 @@
 > <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 ### :book: Studying
-> <a href=https://modoocode.com/135><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href=https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a> <a href=https://www.acmicpc.net/user/black_hand><img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
+> <a href=https://modoocode.com/135><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href=https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style><a href=https://www.acmicpc.net/user/black_hand><img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
 
 ### :video_game: Development
-> * ***"VIREARTH"** (09.21 ~ 05.22 ; Capstone Design project)*
-> * ***"Down"** (11.22 ~ ; Unity Engine Mobile Game project)*
+> * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
+> * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 
 ### :sunny: Now
-> * *Student at INU (03.17 ~)*
-> * *Developing Mobile Project, "Down" (11.22 ~)*
+> * *인천대학교 재학 (17.03 ~)*
+> * *모바일 프로젝트 "Down" 개발중 (11.22 ~)*
 
 ### :full_moon: Before
-> * *Working as a **teacher** at "D.Lab Academy, Songdo " (06.22 ~ 03.23)*
+> * *"디랩 아카데미 송도"에서 **프로그램 개발 강사** 파트타임 근무 (22.06 ~ 23.03)*
 
 ## :neutral_face: What I Do...
 
-### :older_man: Main Job
+### :older_man: 주 업무
 
-> 1. *Game Play Programming*
-> 2. *Game Level Design*
+> 1. *게임 플레이 프로그래밍*
+> 2. *게임 레벨 디자인*
 
-### :man: Sub Job
+### :man: 보조 업무
 
-> 1. *Composing Game OST*
-> 2. *Making Concept Art for Games*
+> 1. *게임 OST 작곡*
+> 2. *게임 컨셉 아트 제작*
 
-### :fire: Recently Do
+### :fire: 최근 하고 있는 것
 
-> 1. *Studying C++*
-> 2. *Game Level Design*
+> 1. *모던 C++ 스터디*
+> 2. *새 프로젝트 기획중*
+> 3. *C++ PS (백준 온라인 저지)*
 
-### :trollface: Someday Do
+### :trollface: 해보고 싶은 것
 
-> 1. *3D Graphics APIs*
-> 2. *Game Engine Architecture*
-> 3. *Reinforcement Learning in Game NPC AI System*
-> 4. *Parallel Computing with C++*
-> 5. *Scripting system with Python(Game Flow FSM)*
-> 6. *Rust Language Programming*
-
+> 1. *그래픽스 API (OpenGL, DirectX, Vulkan...)*
+> 2. *게임 엔진 아키텍쳐*
+> 3. *NPC AI 시스템에서의 강화학습*
+> 4. *C++ 병렬 컴퓨팅*
+> 5. *Python 스크립팅 시스템 (게임 플로우 FSM)*
+> 6. *Rust 프로그래밍*
