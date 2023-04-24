@@ -1,5 +1,5 @@
 
-### ***나만의 게임을 개발하여 GOTY를 수상하는 것이 인생 목표인 개발자.***
+### ***나만의 게임을 개발하여 GOTY를 수상하는 것이 인생 목표인 개발자***
 > <a href=https://www.instagram.com/g1_r.mm.r/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href=https://www.youtube.com/channel/UCecwbtBo5lBOogKllxtCoBg/><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href=https://soundcloud.com/monnlher1hr4/><img src="https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 >
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&layout=compact&theme=dark)
