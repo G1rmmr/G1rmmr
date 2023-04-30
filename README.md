@@ -4,10 +4,12 @@
 >
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&layout=compact&theme=dark)
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=black_hand)](https://solved.ac/black_hand)
-> 
 
-### :+1: Development Skills
-> <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+### :page_with_curl: Languages
+> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+### :computer: Development Skills
+> <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 ### :book: Studying
 > <a href=https://modoocode.com/135><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href=https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style><a href=https://www.acmicpc.net/user/black_hand><img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
