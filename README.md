@@ -6,13 +6,13 @@
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=black_hand)](https://solved.ac/black_hand)
 
 ### :page_with_curl: Languages
-> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 ### :computer: Development Skills
-> <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/> <img src="https://img.shields.io/badge/Data Structure-E9568E?style=for-the-badge&logo=alwaysdata&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Computer Science-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"/> <img src="https://img.shields.io/badge/3D Mathmatics and Physics-3C2179?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 ### :book: Studying
-> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Open GL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
+> <img src="https://img.shields.io/badge/Open GL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
 
 ### :video_game: Development
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
