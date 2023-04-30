@@ -16,7 +16,7 @@
 
 ### :video_game: Development
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
->> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="30%" height="30%"/></a>
+>> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="40%" height="40%"/></a>
 > * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 > * ***"CUBE"** (03.23 ~ ; UnityEngine 모바일 멀티플레이 프로젝트)*
 
