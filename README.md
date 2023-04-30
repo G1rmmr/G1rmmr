@@ -9,10 +9,10 @@
 > <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 ### :computer: Development Skills
-> <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Mathmatics-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/> <img src="https://img.shields.io/badge/Physics-0B2C4A?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/> <img src="https://img.shields.io/badge/Data Structure-E9568E?style=for-the-badge&logo=alwaysdata&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 ### :book: Studying
-> <a href=https://modoocode.com/135><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href=https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style><a href=https://www.acmicpc.net/user/black_hand><img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
+> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Open GL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
 
 ### :video_game: Development
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
