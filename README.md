@@ -16,6 +16,7 @@
 
 ### :video_game: Development
 > * ***"CUBE"** (05.23 ~ ; UnityEngine 모바일 멀티플레이 프로젝트)*
+>> <a href=https://github.com/G1rmmr/ProjectCube/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
 > * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
 >> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
