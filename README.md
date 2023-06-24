@@ -15,18 +15,18 @@
 > <img src="https://img.shields.io/badge/Open GL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
 
 ### :video_game: Development
+> * ***"CUBE"** (05.23 ~ ; UnityEngine 모바일 멀티플레이 프로젝트)*
+> * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
 >> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
-> * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
-> * ***"CUBE"** (03.23 ~ ; UnityEngine 모바일 멀티플레이 프로젝트)*
 
 ### :sunny: Now
 > * *모바일 프로젝트 "Down" 개발중 (11.22 ~)*
 > * *모바일 프로젝트 "CUBE" 개발중 (03.23 ~)*
 
 ### :full_moon: Before
-> * *"디랩 아카데미 송도"에서 **프로그램 개발 강사** 파트타임 근무 (22.06 ~ 23.03)*
 > * *인천대학교 (17.03 ~ 23.08)*
+> * *"디랩 아카데미 송도"에서 **프로그램 개발 강사** 파트타임 근무 (22.06 ~ 23.03)*
 
 ## :neutral_face: What I Do...
 
