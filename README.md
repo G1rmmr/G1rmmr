@@ -21,8 +21,8 @@
 >> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
 
 ### :sunny: Now
+> * *모바일 프로젝트 "CUBE" 개발중 (05.23 ~)*
 > * *모바일 프로젝트 "Down" 개발중 (11.22 ~)*
-> * *모바일 프로젝트 "CUBE" 개발중 (03.23 ~)*
 
 ### :full_moon: Before
 > * *인천대학교 (17.03 ~ 23.08)*
