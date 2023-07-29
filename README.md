@@ -15,14 +15,11 @@
 > <img src="https://img.shields.io/badge/Open GL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
 
 ### :video_game: Development
-> * ***"CUBE"** (05.23 ~ ; UnityEngine 모바일 멀티플레이 프로젝트)*
->> <a href=https://github.com/G1rmmr/ProjectCube/> <img src = "./CUBE.jpg" width="60%" height="60%"/></a>
 > * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
 >> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
 
 ### :sunny: Now
-> * *모바일 프로젝트 "CUBE" 개발중 (05.23 ~)*
 > * *모바일 프로젝트 "Down" 개발중 (11.22 ~)*
 
 ### :full_moon: Before
@@ -43,8 +40,9 @@
 
 ### :fire: 최근 관심사
 
-> 1. *모던 C++*
-> 2. *Rust & 그래픽스 API*
+> 1. *Unreal C++*
+> 2. *Graphics API*
+> 3. *Rust Language*
 
 ### :trollface: 해보고 싶은 것
 
