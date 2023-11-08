@@ -18,10 +18,3 @@
 > * ***"Down"** (11.22 ~ ; UnityEngine 개인 모바일 프로젝트)*
 > * ***"VIREARTH"** (21.09 ~ 22.05 ; 캡스톤 디자인 프로젝트)*
 >> <a href=https://github.com/G1rmmr/VirEarth/> <img src = "./VIREARTH.png" width="60%" height="60%"/></a>
-
-### :sunny: Now
-> * *모바일 프로젝트 "Down" 개발중 (11.22 ~)*
-
-### :full_moon: Before
-> * *인천대학교 (17.03 ~ 23.08)*
-> * *"디랩 아카데미 송도"에서 **프로그램 개발 강사** 파트타임 근무 (22.06 ~ 23.03)*
