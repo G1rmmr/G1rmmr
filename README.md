@@ -1,5 +1,5 @@
 # ***FOR GOTY***
-### Jiwon Nam -- @G1rmmr
+### Jiwon Nam - @G1rmmr
 
 게임 개발자 남지원입니다.
 
