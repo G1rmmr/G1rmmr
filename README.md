@@ -9,4 +9,4 @@
 
 제 [블로그](https://g1rmmr.github.io/)에 오시면 더 많은 정보를 볼 수 있습니다.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=G1rmmr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=G1rmmr&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
