@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=25&pause=1000&color=F7F7F7&center=false&random=true&width=435&lines=For+the+GOTY;A+game+developer;Ideas+into+reality;Art+%3D+Line+%2B+Polygon+%2B+Pixel;Graphics+%2F+Game+Engine)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=25&pause=1000&color=F7F7F7&center=false&random=true&width=435&lines=For+the+GOTY;A+game+developer;Idea+into+reality;Art+%3D+Line+%2B+Polygon+%2B+Pixel;Graphics+%2F+Game+Engine)](https://git.io/typing-svg)
 
 ### 게임 개발자 남지원입니다.
 
