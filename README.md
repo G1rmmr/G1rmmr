@@ -10,4 +10,4 @@
 
 ---
 
-[블로그](https://g1rmmr.github.io/)에 오시면 더 많은 정보를 볼 수 있습니다.
+[REALM](https://g1rmmr.github.io/) (블로그입니다.)
