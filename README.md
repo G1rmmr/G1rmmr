@@ -20,8 +20,8 @@
 
 ### INFO
 
-[E-MAIL](blckhnd.std@gmail.com)
-[BLOG](https://g1rmmr.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blckhnd.std@gmail.com)](mailto:blckhnd.std@gmail.com)
+[![Blog badge](https://img.shields.io/badge/Blog-FFFFFF?style=flat-square)](https://g1rmmr.github.io/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer&text=&fontSize=90)
