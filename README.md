@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=G1rmmr&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-# SKILLS
+# MAJOR
 
 <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Graphics-3C2179?style=for-the-badge&logo=actigraph&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal 5-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
