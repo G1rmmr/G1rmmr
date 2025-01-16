@@ -16,6 +16,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=black_hand)](https://solved.ac/black_hand)
 
+![White ashes](images/white-ashes.png)
+
 ---
 
 ### INFO
