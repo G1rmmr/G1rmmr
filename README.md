@@ -18,10 +18,9 @@
 
 # PROJECTS
 
-##### White ashes (OpenGL Graphics Project)
-<a href=https://github.com/G1rmmr/opengl-tutorial>
-  <img src="./white-ashes.png" width=40% height=40%/>
-</a>
+| White ashes (OpenGL Graphics Project) |
+|-|
+| <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" width=400 /></a> |
 
 ---
 
