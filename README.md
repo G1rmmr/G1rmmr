@@ -24,6 +24,8 @@
 
 ### INFO
 
+Windows App Developer (NEXCAM; 25.05 ~)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blckhnd.std@gmail.com)](mailto:blckhnd.std@gmail.com)
 [![Blog badge](https://img.shields.io/badge/Blog-FFFFFF?style=flat-square)](https://g1rmmr.github.io/)
 
