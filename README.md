@@ -26,7 +26,7 @@
 
 | Art Gallery Ghost (SFML; 25.08 ~) |
 | - |
-| <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./ghost-shot.png" height=412.5 width=550 /></a> |
+| <a href=https://github.com/G1rmmr/art-gallery-ghost><img src="./ghost-shot.jpg" height=412.5 width=550 /></a> |
 | White ashes (OpenGL; 25.01) |
 | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" width=550 /></a> |
 | MIR Engine 0.1 (SFML; 24.08 ~ 24.12) |
