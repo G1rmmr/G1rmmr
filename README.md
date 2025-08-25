@@ -29,7 +29,7 @@
 | - |
 | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" width=550 /></a> |
 | MIR Engine 0.1 (SFML; 24.08 ~ 24.12) |
-| <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./MIR.png" width=550 /></a> |
+| <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" width=550 /></a> |
 
 ---
 
