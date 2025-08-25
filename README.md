@@ -5,7 +5,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=40&center=true&pause=1000&color=F7F7F7&random=true&width=1000&height=100&lines=For+the+GOTY;A+game+developer;Idea+into+reality;Art+%3D+Code+%2B+Polygon+%2B+Pixel;Graphics+%2F+Game+Engine)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&card_width=580)  
-![trophy](https://github-profile-trophy.vercel.app/?username=G1rmmr&theme=onedark)
 
 # MAJORS
 
@@ -21,15 +20,17 @@
 | What | Where | When |
 | - | - | - |
 | Windows App Developer  | NEXCAM Co., Ltd.| 25.05 ~ |  
-| B.S. in Computer Engineering | Incheon National University | 17.03 ~ 23.08 |
+| BSc in Computer Engineering | Incheon National University | 17.03 ~ 23.08 |
   
 # PROJECTS
 
-| White ashes (OpenGL; 25.01) |
+| Art Gallery Ghost (SFML; 25.08 ~) |
 | - |
+| <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./ghost-shot.png" height=412.5 width=550 /></a> |
+| White ashes (OpenGL; 25.01) |
 | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" width=550 /></a> |
 | MIR Engine 0.1 (SFML; 24.08 ~ 24.12) |
-| <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" width=550 /></a> |
+| <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" height=412.5 width=550 /></a> |
 
 ---
 
