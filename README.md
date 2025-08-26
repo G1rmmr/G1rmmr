@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=JIWON&fontColor=FFFFFF&animation=twinkling)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=40&center=true&pause=1000&color=F7F7F7&random=true&width=1000&height=100&lines=For+the+GOTY;A+game+developer;Idea+into+reality;Art+%3D+Code+%2B+Polygon+%2B+Pixel;Graphics+%2F+Game+Engine)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=40&center=true&pause=1000&color=F7F7F7&random=true&width=1000&height=100&lines=For+the+GOTY;A+game+developer;Idea+into+reality;Art+%3D+Code+%2B+Polygon+%2B+Pixel;Real-time+%2F+Graphics)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&card_width=580)  
 
