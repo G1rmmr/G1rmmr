@@ -26,7 +26,7 @@
 
 | Art Gallery Ghost (SFML; 25.08 ~) |  White ashes (OpenGL; 25.01) | MIR 1.0 (SFML; 24.08 ~ 12) |
 | - | - | - |
-| <a href=https://github.com/G1rmmr/art-gallery-ghost><img src="./ghost-shot.jpg" height=500 width=500 /></a> | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" height=500 width=500 /></a> | <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" height=500 width=500 /></a> |
+| <a href=https://github.com/G1rmmr/art-gallery-ghost><img src="./ghost-shot.jpg" height=300 width=300 /></a> | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" height=300 width=300 /></a> | <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" height=300 width=300 /></a> |
 
 ---
 
