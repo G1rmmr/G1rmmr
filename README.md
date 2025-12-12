@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=JIWON&fontColor=FFFFFF&animation=twinkling)
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=40&center=true&pause=1000&color=F7F7F7&random=true&width=1000&height=100&lines=For+the+GOTY;A+game+developer;Idea+into+reality;Art+%3D+Code+%2B+Polygon+%2B+Pixel;Real-time+%2F+Graphics)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&card_width=580)  
@@ -26,13 +24,11 @@
 
 | Art Gallery Ghost (SFML; 25.08 ~) |  White ashes (OpenGL; 25.01) | MIR 1.0 (SFML; 24.08 ~ 12) |
 | - | - | - |
-| <a href=https://github.com/G1rmmr/art-gallery-ghost><img src="./ghost-shot.jpg" height=300 width=300 /></a> | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" height=300 width=300 /></a> | <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" height=300 width=300 /></a> |
+| <a href=https://github.com/G1rmmr/art-gallery-ghost><img src="./ghost-shot.jpg" height=100 width=100 /></a> | <a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" height=100 width=100 /></a> | <a href=https://g1rmmr.github.io/penitence-source/doxygen/html/index.html><img src="./mir-logo.png" height=100 width=100 /></a> |
 
 ---
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blckhnd.std@gmail.com)](mailto:blckhnd.std@gmail.com)
 [![Blog badge](https://img.shields.io/badge/Blog-FFFFFF?style=flat-square)](https://g1rmmr.github.io/)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer&text=&fontSize=90)
 
 </div>
