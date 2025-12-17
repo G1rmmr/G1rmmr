@@ -1,19 +1,23 @@
 # Hi, I'm John Nam.
 
 #### Skills
-- .NET/C++ Development (Visual Studio)
-- Cross-Platform Applications (C/C++ using CMake) 
-- Custom Automation tools (Python)
+    .NET/C++ Development (Visual Studio)
+    Cross-Platform Applications (C/C++ using CMake) 
+    Custom Automation tools (Python)
 
 #### Experiences
-- Windows Application Engineer in **_NEXCAM Co., Ltd. (May 2025 – Present)_**
-- B.S. in Computer Engineering at **_Incheon National University(Mar 2017 – Aug 2023)_**
+    Windows Application Engineer in NEXCAM Co., Ltd. (May 2025 – Present)
+    B.S. in Computer Engineering at Incheon National University(Mar 2017 – Aug 2023)
 
 #### Interests
-- Game Programming / Engine
-- Real Time Computer Graphics
+    Game Programming / Engine
+    Real Time Computer Graphics
+
+---
     
 <div align="center">
+  
+### P R O J E C T S  
   <table>
     <tbody>
       <tr>
@@ -24,3 +28,8 @@
     </tbody>
   </table>
 </div>
+
+---
+
+> _For more info, please visit [my blog.](https://g1rmmr.github.io/)_
+
