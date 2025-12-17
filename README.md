@@ -1,9 +1,19 @@
+# Hi, I'm John Nam.
+
+#### Skills
+- .NET/C++ Development (Visual Studio)
+- Cross-Platform Applications (C/C++ using CMake) 
+- Custom Automation tools (Python)
+
+#### Experiences
+- Windows Application Engineer in **_NEXCAM Co., Ltd. (May 2025 – Present)_**
+- B.S. in Computer Engineering at **_Incheon National University(Mar 2017 – Aug 2023)_**
+
+#### Interests
+- Game Programming / Engine
+- Real Time Computer Graphics
+    
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1rmmr&exclude_repo=G1rmmr,G1rmmr.github.io,custom-tools,imax-bot,computational-geometry&layout=compact&hide=html,perl,roff,raku&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&card_width=200)  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1rmmr&show_icons=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000)
-  
-  
   <table>
     <tbody>
       <tr>
