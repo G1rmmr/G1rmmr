@@ -4,6 +4,7 @@
     .NET/C++ Development (Visual Studio)
     Cross-Platform Applications (C/C++ using CMake) 
     Custom Automation tools (Python)
+    Shader Programming (GLSL / HLSL)
 
 #### Experiences
     Windows Application Engineer in NEXCAM Co., Ltd. (May 2025 – Present)
