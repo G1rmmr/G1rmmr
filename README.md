@@ -1,5 +1,3 @@
-# Hi, I'm John Nam.
-
 #### Skills
     .NET/C++ Development (Visual Studio)
     Cross-Platform Applications (C/C++ using CMake) 
