@@ -6,7 +6,7 @@
 
 #### Experiences
     Windows Application Engineer in NEXCAM Co., Ltd. (May 2025 – Present)
-    B.S. in Computer Engineering at Incheon National University(Mar 2017 – Aug 2023)
+    B.S. in Computer Engineering at Incheon National University (Mar 2017 – Aug 2023)
 
 #### Interests
     Game Programming / Engine
