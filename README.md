@@ -9,8 +9,9 @@
     B.S. in Computer Engineering at Incheon National University (Mar 2017 – Aug 2023)
 
 #### Interests
-    Game Programming / Engine
     Real Time Computer Graphics
+    Game Programming / Engine
+    Computer Vision
 
 ---
     
