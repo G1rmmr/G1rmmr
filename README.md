@@ -1,6 +1,6 @@
 #### Skills
     .NET/C++ Development (Visual Studio)
-    Cross-Platform Applications (C/C++ using CMake) 
+    Cross-Platform Applications (C/C++ using CMake / XMake) 
     Custom Automation tools (Python)
     Shader Programming (GLSL / HLSL)
 
