@@ -21,7 +21,6 @@
   <table>
     <tbody>
       <tr>
-        <td><a href=https://github.com/G1rmmr/art-gallery-ghost-cmake><img src="./ghost-shot.jpg" height=300 width=300 /></a></td>
         <td><a href=https://github.com/G1rmmr/opengl-tutorial><img src="./white-ashes.png" height=300 width=300 /></a></td>
         <td><a href=https://github.com/G1rmmr/mirengine-cpp><img src="./mir-logo.png" height=300 width=300 /></a></td>
       </tr>
@@ -30,6 +29,3 @@
 </div>
 
 ---
-
-> _For more info, please visit [my blog.](https://g1rmmr.github.io/)_
-
